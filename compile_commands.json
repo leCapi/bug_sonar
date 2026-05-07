@@ -1,0 +1,12 @@
+[
+ {
+  "directory": "/home/godardo/git/sonar_bug",
+  "arguments": [
+   "g++",
+   "src/c++/main.cpp",
+   "-o",
+   "main"
+  ],
+  "file": "src/c++/main.cpp"
+ }
+]
